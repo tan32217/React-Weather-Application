@@ -16,7 +16,7 @@ This is a weather application built using React. It allows users to search for a
 ### Frontend
 - React (with TypeScript)
 - HTML5, CSS3
-- Axios for API requests
+- Fetch for API requests
 
 ### Backend
 - Node.js with Express
