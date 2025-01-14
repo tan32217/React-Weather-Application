@@ -10,6 +10,7 @@ This is a weather application built using React. It allows users to search for a
 - **Reset Functionality**: Use the clear button to reset all inputs and return to the initial state.
 - **Interactive Table**: Click on dates in a weather table to view detailed data for that specific day.
 - **Responsive Design**: A user-friendly interface that adapts across devices.
+<img width="1120" alt="image" src="https://github.com/user-attachments/assets/a9a7ddd8-3c12-4c63-af44-eaabb79374ab" />
 
 ## Tech Stack
 
